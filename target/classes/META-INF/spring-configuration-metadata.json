@@ -1,0 +1,47 @@
+{
+  "groups": [
+    {
+      "name": "person",
+      "type": "com.lxc.springboot.bean.Person",
+      "sourceType": "com.lxc.springboot.bean.Person"
+    }
+  ],
+  "properties": [
+    {
+      "name": "person.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.lxc.springboot.bean.Person"
+    },
+    {
+      "name": "person.birth",
+      "type": "javax.xml.crypto.Data",
+      "sourceType": "com.lxc.springboot.bean.Person"
+    },
+    {
+      "name": "person.boss",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.lxc.springboot.bean.Person"
+    },
+    {
+      "name": "person.dog",
+      "type": "com.lxc.springboot.bean.Dog",
+      "sourceType": "com.lxc.springboot.bean.Person"
+    },
+    {
+      "name": "person.last-name",
+      "type": "java.lang.String",
+      "sourceType": "com.lxc.springboot.bean.Person"
+    },
+    {
+      "name": "person.lists",
+      "type": "java.util.List<java.lang.Object>",
+      "sourceType": "com.lxc.springboot.bean.Person"
+    },
+    {
+      "name": "person.maps",
+      "type": "java.util.Map<java.lang.String,java.lang.Object>",
+      "sourceType": "com.lxc.springboot.bean.Person"
+    }
+  ],
+  "hints": []
+}

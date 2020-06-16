@@ -1,0 +1,4 @@
+com\lxc\springboot\bean\Person.class
+com\lxc\springboot\bean\Dog.class
+META-INF\spring-configuration-metadata.json
+com\lxc\springboot\SpringBoot02ConfigApplication.class
